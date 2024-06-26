@@ -38,7 +38,7 @@ If none of the previous methods fulfills your needs, then you can extend the fun
 - [Redis Modules API introduction]({{< relref "/develop/reference/modules/" >}})
 - [Redis Modules API reference]({{< relref "/develop/reference/modules/modules-api-ref" >}})
 
-## APIs for Operators
+## APIs for Operator
 
 ### Redis Cloud API
 Redis Cloud is a fully managed Database as a Service offering and the fastest way to deploy Redis at scale. You can programmatically manage your databases, accounts, access, and credentials using the Redis Cloud REST API.
